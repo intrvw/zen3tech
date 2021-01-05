@@ -1,0 +1,1 @@
+export const GallerySelector=(state)=>state.GalleryReducer
